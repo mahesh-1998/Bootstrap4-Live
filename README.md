@@ -24,3 +24,15 @@
 10.Revealing Content: Tooltips, Popovers and Modals
 
 11.Carousel
+
+## Desktop
+
+![screencapture-localhost-3000-2020-05-23-08_17_28](https://user-images.githubusercontent.com/40057902/85941630-9b6f5900-b941-11ea-8d77-aed10478b955.png)
+
+
+![screencapture-localhost-3000-index-html-2020-06-27-10_47_03](https://user-images.githubusercontent.com/40057902/85941628-9ad6c280-b941-11ea-90cf-1799bb341fe3.png)
+
+
+## Mobile
+
+![screencapture-localhost-3000-2020-05-23-08_17_56](https://user-images.githubusercontent.com/40057902/85941632-9c07ef80-b941-11ea-900e-079ca98d761c.png)
